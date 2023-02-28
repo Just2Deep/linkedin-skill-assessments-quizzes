@@ -13079,6 +13079,66 @@
         "design",
         "code"
       ]
+    },
+    {
+      "login": "kayumuzzaman",
+      "name": "Robin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46846503?v=4",
+      "profile": "https://github.com/kayumuzzaman",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "alex-yatseyko",
+      "name": "Alex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34627441?v=4",
+      "profile": "http://yatseyko.com",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "ehrlinger",
+      "name": "John Ehrlinger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1110676?v=4",
+      "profile": "http://jehrlinger.wordpress.com",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "snelsi",
+      "name": "Roman Zhuravlov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15171036?v=4",
+      "profile": "http://snelsi.com",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "mrblue6ix",
+      "name": "Jordan Moss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82508439?v=4",
+      "profile": "https://github.com/mrblue6ix",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "RaeShelly",
+      "name": "RaeShelly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72581570?v=4",
+      "profile": "https://github.com/RaeShelly",
+      "contributions": [
+        "design",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
